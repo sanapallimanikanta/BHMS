@@ -5,7 +5,7 @@ Welcome to the BHMS project! This system is designed to monitor the critical par
 ## 📸 System Overview
 
 *(Please place your system picture here, name it `system_picture.png` and it will appear below)*
-![BHMS System](system_picture.png)
+<img width="1600" height="1201" alt="Image" src="https://github.com/user-attachments/assets/b72ea739-9c12-4cc4-b5b6-c6a7cda49de2" />
 
 ## 🛠️ Components Used
 - **Voltage Sensor**: Measures the real-time battery voltage.
